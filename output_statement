@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    std::cout << "Hi Carrie!\n"; //This is the name of my beautiful girlfriend
+    return 0;
